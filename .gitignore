@@ -12,3 +12,6 @@ npm-debug.log*
 *.pid
 .idea/
 .env
+.env.example
+.python-version
+package-lock.json
